@@ -5,7 +5,7 @@ This project contains mainly three python files:
 It includes methods that involves in capturing video camera stream and read it frame by frame.
 
  **FPS.py:**
-It includes methods involved iin calculating time interval of video camera stream,
+It includes methods involved in calculating time interval of video camera stream,
 number of frames and calculating frames per second(fps).
 
 **main.py**
