@@ -2,7 +2,7 @@
 This project contains mainly three python files:
 
 **WebcamVideoStream.py:**
-It includes methods that involves in capturing video camera stream aread it frame by frame.
+It includes methods that involves in capturing video camera stream and read it frame by frame.
 
  **FPS.py:**
 It includes methods involved iin calculating time interval of video camera stream,
